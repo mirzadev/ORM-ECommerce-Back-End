@@ -2,7 +2,7 @@
 
 ## Description
 
-*ORM E Commerce is a Back end API built for the back end developers. This API is built using Express.js and configure it to use Sequelize to interact with a MySQL database.*
+*ORM E Commerce is a Back end API built for the back end developers. This API is built using Express.js and configured to use Sequelize in order to interact with MySQL database.*
 
 ## Table of Contents
 
