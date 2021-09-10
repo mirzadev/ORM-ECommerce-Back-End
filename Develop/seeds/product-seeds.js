@@ -1,5 +1,6 @@
 const { Product } = require('../models');
 
+// List of products
 const productData = [
   {
     product_name: 'Plain T-Shirt',
@@ -32,6 +33,7 @@ const productData = [
     category_id: 2,
   },
 ];
+
 
 const seedProducts = () => Product.bulkCreate(productData);
 
